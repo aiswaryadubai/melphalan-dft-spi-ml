@@ -92,7 +92,7 @@ With the preserved signed-value formulation, aqueous BNNS–Ni (`BN_Ni1`) should
 
 ## Data and code availability statement
 
-> The complete 76-system dataset, Sensor Performance Index calculations, weight-sensitivity analysis, machine-learning scripts, model settings, cross-validation results, and ranking tables are available in Zenodo at https://doi.org/10.5281/zenodo.XXXXXXX. The development version is available at https://github.com/USERNAME/melphalan-dft-spi-ml.
+> The complete 76-system dataset, Sensor Performance Index calculations, weight-sensitivity analysis, machine-learning scripts, model settings, cross-validation results, and ranking tables are available in Zenodo at https://doi.org/10.5281/zenodo.XXXXXXX. The development version is available at https://github.com/aiswaryadubai/melphalan-dft-spi-ml.
 
 ## Authors
 
